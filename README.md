@@ -20,9 +20,5 @@ around content type, ratings, countries, directors, and trends.
 5. Content added in the last 5 years
 ... (list all 13)
 
-## 📁 Files
-| File | Description |
-|------|-------------|
-| netflix_query.sql | All SQL queries |
-| netflix_db.csv | Raw dataset |
+
 
