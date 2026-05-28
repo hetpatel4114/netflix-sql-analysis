@@ -9,7 +9,7 @@ around content type, ratings, countries, directors, and trends.
 - Records: ~8,800 rows | 12 columns
 
 ## 🛠️ Tools Used
-- MySQL (DDL + DML)
+- MySQL
 - CSV Dataset
 
 ## 📊 Key Business Questions Solved
